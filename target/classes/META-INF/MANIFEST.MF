@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dereq
+Build-Jdk: 11.0.1
+Implementation-Title: search
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hotel
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/search
+Created-By: Maven Integration for Eclipse
+
